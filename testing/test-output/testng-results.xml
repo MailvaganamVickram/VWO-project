@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-07T17:33:25 IST" name="Default suite" finished-at="2024-01-07T17:35:24 IST" duration-ms="118744">
+    <groups>
+    </groups>
+    <test started-at="2024-01-07T17:33:25 IST" name="Default test" finished-at="2024-01-07T17:35:24 IST" duration-ms="118744">
+      <class name="testing.VWO">
+        <test-method signature="Login()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:33:25 IST" name="Login" description="Login" finished-at="2024-01-07T17:34:05 IST" duration-ms="39783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:33:25 IST" name="Login" description="Login" finished-at="2024-01-07T17:33:47 IST" duration-ms="22233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:33:25 IST" name="Login" description="Login" finished-at="2024-01-07T17:33:48 IST" duration-ms="23169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login2()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:34:05 IST" name="Login2" description="Login2" finished-at="2024-01-07T17:34:36 IST" duration-ms="30916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+        <test-method signature="Login2()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:34:05 IST" name="Login2" description="Login2" finished-at="2024-01-07T17:34:24 IST" duration-ms="18887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+        <test-method signature="Login2()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:34:05 IST" name="Login2" description="Login2" finished-at="2024-01-07T17:34:22 IST" duration-ms="16554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+        <test-method signature="Login3()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:34:36 IST" name="Login3" description="Login3" finished-at="2024-01-07T17:35:03 IST" duration-ms="27277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login3 -->
+        <test-method signature="Login3()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:34:36 IST" name="Login3" description="Login3" finished-at="2024-01-07T17:34:56 IST" duration-ms="20515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login3 -->
+        <test-method signature="Login3()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:34:36 IST" name="Login3" description="Login3" finished-at="2024-01-07T17:34:58 IST" duration-ms="22119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login3 -->
+        <test-method signature="Login4()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:35:03 IST" name="Login4" description="Login4" finished-at="2024-01-07T17:35:24 IST" duration-ms="20685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login4 -->
+        <test-method signature="Login4()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:35:03 IST" name="Login4" description="Login4" finished-at="2024-01-07T17:35:22 IST" duration-ms="18994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login4 -->
+        <test-method signature="Login4()[pri:0, instance:testing.VWO@130d63be]" started-at="2024-01-07T17:35:03 IST" name="Login4" description="Login4" finished-at="2024-01-07T17:35:22 IST" duration-ms="18628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login4 -->
+      </class> <!-- testing.VWO -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
